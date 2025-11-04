@@ -1,0 +1,17 @@
+# Obrazy systemów i instalatory
+*.img
+*.img.xz
+*.dmg
+*.zip
+*.app/
+Cyberduck.app/
+
+# Pliki tymczasowe
+*.tmp
+*.bak
+*~
+
+# Pliki systemu macOS
+.DS_Store
+.AppleDouble
+.LSOverride
